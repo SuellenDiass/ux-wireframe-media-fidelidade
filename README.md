@@ -34,7 +34,7 @@ Tipos:
 Estático
 Sem representação visual satisfatoria
 Custo baixo(papel e caneta)
-Observações: para font utilizei a fonte luckiest do google fonts: https://fonts.google.com/ e importei no HTML.
+
 
 - [x] Protótipo características:
 Interativo
