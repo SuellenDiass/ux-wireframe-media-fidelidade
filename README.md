@@ -15,9 +15,7 @@
 <p align="justify">
 
  Desafio: Construir um Wireframe de média fidelidade e assim aplicar todos os conceitos e leis aprendidas até aqui.
-
-
-
+ 
 
 - [x] Wireframe: são representações visuais de baixa fidelidade, onde começa tudo. Descreve todos os elementos presentes da maneira mais simples sem se preocupar com cores, fontes, mas organizado. Tons utilizados cinza com branco, usar o vermelho para referenciar links layout.
 Tipos:
